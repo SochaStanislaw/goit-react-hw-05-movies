@@ -1,0 +1,13 @@
+  .wrapper {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+.link {
+  margin: 15px;
+}
+
+/* .color {
+  color: rgb(161, 161, 161);
+} */
